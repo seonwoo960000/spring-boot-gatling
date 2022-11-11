@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gatling-maven-plugin-demo-java/gatling-maven-plugin-demo-java.iml" filepath="$PROJECT_DIR$/gatling-maven-plugin-demo-java/gatling-maven-plugin-demo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/gatling-test.iml" filepath="$PROJECT_DIR$/.idea/gatling-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot/spring-boot.iml" filepath="$PROJECT_DIR$/spring-boot/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-for-gatling/spring-boot-for-gatling.iml" filepath="$PROJECT_DIR$/spring-boot-for-gatling/spring-boot-for-gatling.iml" />
+    </modules>
+  </component>
+</project>
